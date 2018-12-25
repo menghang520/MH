@@ -23,7 +23,7 @@ class Ui_MainWindow(QtWidgets.QMainWindow):
     def __init__(self):
         super(Ui_MainWindow,self).__init__()
         self.title = 'building detection'
-        self.left = 30
+        self.left = 40
         self.top = 30
         self.width = 500
         self.height = 200
